@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureAdmin.Test", "FeatureAdmin.Test\FeatureAdmin.Test.csproj", "{25992041-DC84-4EAB-96FD-C5BBBC5DF9F9}"
 EndProject
@@ -45,7 +45,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{25992041-DC84-4EAB-96FD-C5BBBC5DF9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{25992041-DC84-4EAB-96FD-C5BBBC5DF9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25992041-DC84-4EAB-96FD-C5BBBC5DF9F9}.Debug|x64.ActiveCfg = Debug|x64
 		{25992041-DC84-4EAB-96FD-C5BBBC5DF9F9}.Debug|x64.Build.0 = Debug|x64
 		{25992041-DC84-4EAB-96FD-C5BBBC5DF9F9}.Debug|x86.ActiveCfg = Debug|Any CPU
@@ -57,7 +56,6 @@ Global
 		{25992041-DC84-4EAB-96FD-C5BBBC5DF9F9}.Release|x86.ActiveCfg = Release|Any CPU
 		{25992041-DC84-4EAB-96FD-C5BBBC5DF9F9}.Release|x86.Build.0 = Release|Any CPU
 		{D1E28224-E06C-4AAD-BCBA-D2FE46D3A9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1E28224-E06C-4AAD-BCBA-D2FE46D3A9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1E28224-E06C-4AAD-BCBA-D2FE46D3A9AF}.Debug|x64.ActiveCfg = Debug|Any CPU
 		{D1E28224-E06C-4AAD-BCBA-D2FE46D3A9AF}.Debug|x64.Build.0 = Debug|Any CPU
 		{D1E28224-E06C-4AAD-BCBA-D2FE46D3A9AF}.Debug|x86.ActiveCfg = Debug|Any CPU
@@ -129,7 +127,6 @@ Global
 		{5D1949A6-17ED-4203-98F8-2B82415F97C1}.Release|x86.ActiveCfg = Release|Any CPU
 		{5D1949A6-17ED-4203-98F8-2B82415F97C1}.Release|x86.Build.0 = Release|Any CPU
 		{802E1AF7-C74D-416A-9F3B-28A941755FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{802E1AF7-C74D-416A-9F3B-28A941755FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{802E1AF7-C74D-416A-9F3B-28A941755FB4}.Debug|x64.ActiveCfg = Debug|Any CPU
 		{802E1AF7-C74D-416A-9F3B-28A941755FB4}.Debug|x64.Build.0 = Debug|Any CPU
 		{802E1AF7-C74D-416A-9F3B-28A941755FB4}.Debug|x86.ActiveCfg = Debug|Any CPU
@@ -185,5 +182,8 @@ Global
 		{E4A06935-054F-446A-B2AF-996DC615D775} = {32AB58CA-90B1-455F-AE6B-563D0844DC99}
 		{5D1949A6-17ED-4203-98F8-2B82415F97C1} = {32AB58CA-90B1-455F-AE6B-563D0844DC99}
 		{17B6092B-CE22-4FE9-B00E-469CA1E4A11C} = {32AB58CA-90B1-455F-AE6B-563D0844DC99}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E351E75-C1DC-4534-BB66-DBD4551E0F93}
 	EndGlobalSection
 EndGlobal
